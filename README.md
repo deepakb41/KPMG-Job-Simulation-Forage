@@ -14,6 +14,9 @@ This repository includes the following files and folders:
 - `Email Draft.pdf`: A draft of the email containing the data quality assessment and recommendations.
 - `Sprocket_Central_Customer_Insights.ipynb`: Jupyter notebook with the full analysis, including data cleaning, exploration, and visualization.
 - `Sprocket Central Analysis.twb`: Tableau workbook with interactive dashboards showcasing the insights derived from the analysis. Click [here](https://public.tableau.com/views/SprocketCentralAnalysis_16999690683590/StrategicCustomerTargeting?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) for the Tableau Dashboard.
+- `sprocket.png`: Company logo image used in the reports.
+- `Strategic Revenue Insights.png`: Visualization image showing revenue insights, including profit distribution by past bike purchases, revenue by top postcodes, state-wise revenue, and revenue trends across tenure and property valuation.
+- `Profit Insights Overview.png`: Visualization image providing an overview of profit distribution across gender, age groups, wealth segments, and job industries.
 
 
 ## Technologies Used
