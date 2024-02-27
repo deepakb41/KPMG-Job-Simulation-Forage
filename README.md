@@ -12,7 +12,7 @@ This repository includes the following files and folders:
 
 - `Data/`: This folder contains the raw datasets.
 - `Sprocket_Central_Customer_Insights.ipynb`: Jupyter notebook with the full analysis, including data cleaning, exploration, and visualization.
-- `Sprocket Central Analysis.twb`: Tableau workbook with interactive dashboards showcasing the insights derived from the analysis. Click [here]<https://public.tableau.com/views/SprocketCentralAnalysis_16999690683590/StrategicCustomerTargeting?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link> for the Tableau Dashboard.
+- `Sprocket Central Analysis.twb`: Tableau workbook with interactive dashboards showcasing the insights derived from the analysis. Click [here](https://public.tableau.com/views/SprocketCentralAnalysis_16999690683590/StrategicCustomerTargeting?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) for the Tableau Dashboard.
 
 
 ## Technologies Used
